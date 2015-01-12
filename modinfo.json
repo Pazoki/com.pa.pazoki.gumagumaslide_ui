@@ -1,8 +1,8 @@
 {
   "enabled": true,
   "context": "client",
-  "identifier": "com.pa.pazoki.ggsicons",
-  "display_name": "Guma Guma Slide UI mod",
+  "identifier": "com.pa.yuribros.gumagumaslide_ui",
+  "display_name": "Guma Guma Slide Icons",
   "build": "76557",
   "date": "2015/01/12",
   "description": "Icons for Guma Guma Slide.",
@@ -11,10 +11,10 @@
         "client-mod",
     "Strategic-icons"
     ],
-  "author": "Pazoki",
-  "version": "0.1",
+  "author": "Yuri Bros",
+  "version": "1.0",
   "signature": "not yet implemented",
   "forum": "https://forums.uberent.com/threads/wip-servermod-guma-guma-slide.67174/",
-  "icon": "http://i.imgur.com/BomvuqV.png",
+  "icon": "http://i.imgur.com/Ru0njgV.jpg",
   "priority": 100
 }
