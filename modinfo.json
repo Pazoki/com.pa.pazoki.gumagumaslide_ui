@@ -1,0 +1,20 @@
+{
+  "enabled": true,
+  "context": "client",
+  "identifier": "com.pa.pazoki.ggsicons",
+  "display_name": "Guma Guma Slide UI mod",
+  "build": "76557",
+  "date": "2015/01/12",
+  "description": "Icons for Guma Guma Slide.",
+  "category": [
+        "in-game",
+        "client-mod",
+    "Strategic-icons"
+    ],
+  "author": "Pazoki",
+  "version": "0.1",
+  "signature": "not yet implemented",
+  "forum": "https://forums.uberent.com/threads/wip-servermod-guma-guma-slide.67174/",
+  "icon": "http://i.imgur.com/BomvuqV.png",
+  "priority": 100
+}
